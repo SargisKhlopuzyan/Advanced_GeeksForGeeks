@@ -1,1 +1,1 @@
-include ':app', ':lambdaexpressionsjava8', ':functionalinterfaces', ':innerclass', ':staticnonstaticblankfinalvariables', ':howareparameterspassedinjava', ':canweoverloadoroverridestaticmethodsinjava', ':localinnerclassjava', ':anonymousinnerclassjava'
+include ':app', ':lambdaexpressionsjava8', ':functionalinterfaces', ':innerclass', ':staticnonstaticblankfinalvariables', ':howareparameterspassedinjava', ':canweoverloadoroverridestaticmethodsinjava', ':localinnerclassjava', ':anonymousinnerclassjava', ':synchronizedinjava'
